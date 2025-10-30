@@ -1,0 +1,9 @@
+build:
+    script:
+        echo "hello"
+test:
+    script:
+        echo "testing"
+deploy:
+    script:
+        echo "deployed"                
